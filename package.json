@@ -1,0 +1,12 @@
+{
+  "name": "wenxin-douyin-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "@cloudbase/node-sdk": "3.18.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
